@@ -1,0 +1,30 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+
+@config 'tailwind.config.js';
+
+/* .fi-main {
+    background-color: #f5f3e3;
+}
+
+.fi-topbar div{
+    background-color: #274043;
+}
+
+.fi-topbar nav{
+    background-color: #274043;
+}
+
+.shadow-sm {
+    --tw-shadow: 0 2px 4px 0 rgb(0 0 0 / 0.05);
+    --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  }
+
+.fi-sidebar div{
+    background-color: #274043;
+}
+
+.fi-sidebar-header header{
+    background-color: #274043;
+} */
+
